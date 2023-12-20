@@ -9,6 +9,8 @@ pip install pandas requests bs4 tqdm
 
 ## 方法二：可执行文件
 
+下载exe文件和excel
+
 此外有打包好的可执行文件，可以直接运行，不用安装环境
 
 SearchTitle_PaperWithCode.exe
