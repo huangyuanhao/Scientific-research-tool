@@ -1,10 +1,6 @@
-# batchSearchPaperCode
-已有excel中存放的论文题目
-批量在github, paperwithcode, codeocean, Open Science Library网站上查找论文的题目，看是否有检索结果。
+# paperwithcode
+根据论文题目批量在paperwithcode中查找是否能检索到
 
-## 已实现
-paperwithcode
-
-## 计划
-github, codeocean, Open Science Library
+# titles生成WOS检索式
+根据多个标题生成wos高级检索式，直接查找这几篇论文
 
