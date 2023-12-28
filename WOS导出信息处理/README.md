@@ -7,6 +7,8 @@
 ### 包含信息
 文献标题	作者简称	作者全称	通讯作者	发表年	发表日期	发表类型	文献类型	文献来源	会议标题	被引次数	卷	期	Start Page	End Page	DOI	DOI Link	是否OA	WOS ID	WOS页面	摘要
 
+还能通过DOI link 跳转官网或pdf页面，也能通过WOS的链接直接跳转到这篇文章对应的WOS的页面
+
 ![image_31](https://github.com/huangyuanhao/Scientific-research-tool/assets/34792095/288cae73-c71b-4d54-a286-fc3a1bbeeb95)
 
 ![image_32](https://github.com/huangyuanhao/Scientific-research-tool/assets/34792095/86bf50b0-c7e5-4e52-beeb-c4fe2ad70eba)
