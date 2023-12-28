@@ -68,7 +68,7 @@ data_selected['DOI Link'] = 'http://dx.doi.org/' + data_selected['DOI'].astype(s
 data_selected['WOS页面'] = 'https://webofscience.clarivate.cn/wos/woscc/full-record/' + data_selected['WOS ID'].astype(str)
 
 # 保存处理后的数据到新的Excel文件
-output_file_path = '.\WOS信息过滤.xlsx'
+output_file_path = '.\WOS信息过滤后.xlsx'
 
 with pd.ExcelWriter(output_file_path, engine='xlsxwriter') as writer:
     data_selected.to_excel(writer, index=False)
