@@ -1,4 +1,5 @@
 # searchPaperTitleIngithub
+#需要自己获取github token并粘贴在代码中#
 
 已有论文的标题，利用github api 批量在github中检索论文题目，查看是否有结果返回
 
