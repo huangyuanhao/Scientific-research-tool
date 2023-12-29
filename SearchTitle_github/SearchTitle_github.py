@@ -11,7 +11,7 @@ from tqdm import tqdm
 
 
 # 请替换为您的GitHub个人访问令牌
-token = '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'
+token = '自己的github token'
 headers = {'Authorization': f'token {token}'}
 
 
