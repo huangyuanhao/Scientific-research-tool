@@ -1,4 +1,4 @@
-# paperwithcode
+# searchPaperTitleInpaperwithcode
 根据论文题目批量在paperwithcode中查找是否能检索到
 
 # titles生成WOS检索式
