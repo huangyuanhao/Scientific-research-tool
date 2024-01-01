@@ -9,12 +9,10 @@ from tqdm import tqdm
 #未经身份验证的请求的主要速率限制为每小时 60 个请求，使用token每小时 5,000 个请求
 # 如果只延迟1秒的时候总出现返回403错误，
 
-
-# 请替换为您的GitHub个人访问令牌
-token = '自己的github token'
+token = '' # 请替换为您的GitHub个人访问令牌
 headers = {'Authorization': f'token {token}'}
-
-
+if token =='':
+    headers = ''
 
 def search_github(title):
     """
@@ -37,7 +35,7 @@ def search_github(title):
     return None, url
 
 # 读取Excel文件
-df = pd.read_csv('paperTitle.csv')
+df = pd.read_csv('paperTitle.csv',encoding='utf-8')
 
 # 为结果和链接创建空列
 df['networkStatus'] = ''

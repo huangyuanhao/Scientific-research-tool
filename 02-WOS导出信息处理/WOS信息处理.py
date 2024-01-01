@@ -22,7 +22,6 @@ columns_to_extract = {
     'End Page': 'End Page',
     'DOI': 'DOI',
     'DOI Link': 'DOI Link',
-    'Open Access Designations': '是否OA',
     'UT (Unique WOS ID)': 'WOS ID',
     'Web of Science Record': 'WOS页面',
     'Abstract': '摘要'
@@ -56,9 +55,6 @@ data_selected.rename(columns=columns_to_extract, inplace=True)
 
 # 修正 "通讯作者" 列的处理
 data_selected.loc[:, '通讯作者'] = data_selected['通讯作者'].astype(str).str.extract(r'(.*? \(corresponding author\))', expand=False)
-
-# 修正 "是否OA" 列的处理
-data_selected.loc[:, '是否OA'] = data_selected['是否OA'].apply(lambda x: '是' if pd.notnull(x) else '')
 
 
 data_selected['发表日期'] = data_selected['发表日期'].astype(str).apply(format_date)

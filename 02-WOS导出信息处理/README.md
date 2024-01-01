@@ -3,6 +3,7 @@
 
 ## 方式一：源码
 从wos导出为savedrecs.xls的表格，运行WOS信息处理.py，会生成  WOS信息过滤后.xlsx 文件
+可以直接点击bat运行
 
 ### 包含信息
 文献标题	作者简称	作者全称	通讯作者	发表年	发表日期	发表类型	文献类型	文献来源	会议标题	被引次数	卷	期	Start Page	End Page	DOI	DOI Link	是否OA	WOS ID	WOS页面	摘要
