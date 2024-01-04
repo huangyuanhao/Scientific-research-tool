@@ -35,7 +35,7 @@ def search_github(title):
     return None, url
 
 # 读取Excel文件
-df = pd.read_csv('paperTitle.csv',encoding='utf-8')
+df = pd.read_csv('paperTitle.csv',encoding='gbk')
 
 # 为结果和链接创建空列
 df['networkStatus'] = ''
@@ -48,7 +48,7 @@ for index, row in tqdm(df.iterrows(), total=df.shape[0], desc="Searching papers"
     df.at[index, 'link'] = result_link
 
     # 更新并写入文件
-    df.to_csv('paperTitle.csv', index=False)
+    df.to_csv('paperTitle.csv', index=False,encoding='gbk')
     # 避免频繁请求，根据需要调整延时
     time.sleep(2)
 
