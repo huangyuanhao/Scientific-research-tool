@@ -32,7 +32,7 @@ def search_github(title):
         return None, None
 
     print(f"Found related results for '{title}' with {results['total_count']} numbers ")
-    return None, url
+    return None, "https://github.com/search?q="+title
 
 # 读取Excel文件
 df = pd.read_csv('paperTitle.csv',encoding='gbk')

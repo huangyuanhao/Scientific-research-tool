@@ -1,417 +1,137 @@
 title,networkStatus,link
-federated learning,,https://www.catalyzex.com/s/federated%20learning
-Mobility-Aware Proactive Edge Caching for Connected Vehicles Using Federated Learning,,
-A smart digital twin enabled security framework for vehicle-to-grid cyber-physical systems,,
-EtherTwin: Blockchain-based secure digital twin information management,,
-On the design of a privacy-preserving communication scheme for cloud-based digital twin environments using blockchain,,
-Cooperative federated learning and model update verification in blockchain-empowered digital twin edge networks,,
+�����Կ��װ�㷨OSKR/OKAIӲ����Чʵ��,,
+"A Survey on Privacy for B5G/6G: New Privacy Challenges, and Research Directions",,
+A Survey on Privacy of Personal and Non-Personal Data in B5G/6G Networks,,
+A Survey of Federated Evaluation in Federated Learning,,https://www.catalyzex.com/s/A%20Survey%20of%20Federated%20Evaluation%20in%20Federated%20Learning
+A Comprehensive Survey on Trustworthy Recommender Systems,,https://www.catalyzex.com/s/A%20Comprehensive%20Survey%20on%20Trustworthy%20Recommender%20Systems
+A Survey on Federated Recommendation Systems,,https://www.catalyzex.com/s/A%20Survey%20on%20Federated%20Recommendation%20Systems
+A Survey of Blockchain and Artificial Intelligence for 6G Wireless Communications,,https://www.catalyzex.com/s/A%20Survey%20of%20Blockchain%20and%20Artificial%20Intelligence%20for%206G%20Wireless%20Communications
+Federated Analytics: A survey,,https://www.catalyzex.com/s/Federated%20Analytics:%20A%20survey
+Trustworthy Federated Learning: A Survey,,https://www.catalyzex.com/s/Trustworthy%20Federated%20Learning:%20A%20Survey
+Federated Learning for Metaverse: A Survey,,https://www.catalyzex.com/s/Federated%20Learning%20for%20Metaverse:%20A%20Survey
+Machine Unlearning: A Survey,,https://www.catalyzex.com/s/Machine%20Unlearning:%20A%20Survey
+Bayesian Federated Learning: A Survey,,https://www.catalyzex.com/s/Bayesian%20Federated%20Learning:%20A%20Survey
+Source-Free Unsupervised Domain Adaptation: A Survey,,https://www.catalyzex.com/s/Source-Free%20Unsupervised%20Domain%20Adaptation:%20A%20Survey
+A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-constrained Computing,,https://www.catalyzex.com/s/A%20Survey%20on%20Secure%20and%20Private%20Federated%20Learning%20Using%20Blockchain:%20Theory%20and%20Application%20in%20Resource-constrained%20Computing
+A Survey on Participant Selection for Federated Learning in Mobile Networks,,https://www.catalyzex.com/s/A%20Survey%20on%20Participant%20Selection%20for%20Federated%20Learning%20in%20Mobile%20Networks
+A Survey of Machine Unlearning,,https://www.catalyzex.com/s/A%20Survey%20of%20Machine%20Unlearning
+Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey,,https://www.catalyzex.com/s/Topology-aware%20Federated%20Learning%20in%20Edge%20Computing:%20A%20Comprehensive%20Survey
+"The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions",,"https://www.catalyzex.com/s/The%20Metaverse:%20Survey,%20Trends,%20Novel%20Pipeline%20Ecosystem%20&%20Future%20Directions"
+A Survey of Secure Computation Using Trusted Execution Environments,,https://www.catalyzex.com/s/A%20Survey%20of%20Secure%20Computation%20Using%20Trusted%20Execution%20Environments
+A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT,,https://www.catalyzex.com/s/A%20Comprehensive%20Survey%20on%20Pretrained%20Foundation%20Models:%20A%20History%20from%20BERT%20to%20ChatGPT
+A Survey on Blockchain-Based Federated Learning and Data Privacy,,https://www.catalyzex.com/s/A%20Survey%20on%20Blockchain-Based%20Federated%20Learning%20and%20Data%20Privacy
+Privacy-Preserving Graph Machine Learning from Data to Computation: A Survey,,https://www.catalyzex.com/s/Privacy-Preserving%20Graph%20Machine%20Learning%20from%20Data%20to%20Computation:%20A%20Survey
+Survey of Machine Learning Based Intrusion Detection Methods for Internet of Medical Things,,https://www.catalyzex.com/s/Survey%20of%20Machine%20Learning%20Based%20Intrusion%20Detection%20Methods%20for%20Internet%20of%20Medical%20Things
+Recent Advances on Federated Learning: A Systematic Survey,,https://www.catalyzex.com/s/Recent%20Advances%20on%20Federated%20Learning:%20A%20Systematic%20Survey
+Machine unlearning of features and labels,,https://www.catalyzex.com/s/Machine%20unlearning%20of%20features%20and%20labels
+Zero-shot machine unlearning,,https://www.catalyzex.com/s/Zero-shot%20machine%20unlearning
+Privacy of federated QR decomposition using additive secure multiparty computation,,https://www.catalyzex.com/s/Privacy%20of%20federated%20QR%20decomposition%20using%20additive%20secure%20multiparty%20computation
+Binarizing split learning for data privacy enhancement and computation reduction,,https://www.catalyzex.com/s/Binarizing%20split%20learning%20for%20data%20privacy%20enhancement%20and%20computation%20reduction
+MPClan: Protocol suite for privacy-conscious computations,,https://www.catalyzex.com/s/MPClan:%20Protocol%20suite%20for%20privacy-conscious%20computations
 Low-latency federated learning and blockchain for edge association in digital twin empowered 6G networks,,https://www.catalyzex.com/s/Low-latency%20federated%20learning%20and%20blockchain%20for%20edge%20association%20in%20digital%20twin%20empowered%206G%20networks
-Using a cyber digital twin for continuous automotive security requirements verification,,
-Blockchain-enabled service optimizations in supply chain digital twin,,
-Generative adversarial scheme based GNSS spoofing detection for digital twin vehicular networks,,
-ELEGANT: Security of critical infrastructures with digital twins,,
-Efficient authentication for vehicular digital twin communications,,
-Roads infrastructure digital twin: A step toward smarter cities realization,,
-Digital twin based remote resource sharing in internet of vehicles using consortium blockchain,,
-Harnessing digital twin security simulations for systematic cyber threat intelligence,,
-Synchronized provable data possession based on blockchain for digital twin,,
-Communication-efficient federated learning and permissioned blockchain for digital twin edge networks,,
-Digital twin driven blockchain based reliable and efficient 6G edge network,,
-Armored twins: Flexible privacy protection for digital twins through conditional proxy re-encryption and multi-party computation,,
-An efficient digital twin assisted clustered federated learning algorithm for disease prediction,,
-Blockchain in digital twins-based vehicle management in VANETs,,
-A novel anomaly detection method for digital twin data using deconvolution operation with attention mechanism,,
-Digital twin-enhanced methodology for training edge-based models for cyber security applications,,
-Distributed collaborative anomaly detection for trusted digital twin vehicular edge networks,,
-Blockchain-enabled digital twin technology for next-generation transportation systems,,
-Safety assessment of highly automated vehicles using digital twin technology,,
-Toward the adoption of secure cyber digital twins to enhance cyber-physical systems security,,
-Enabling trust and security in digital twin management: A blockchain-based approach with ethereum and IPFS,,
-Leveraging the power of artificial intelligence and blockchain in recruitment using beetle platform,,
-Digital twin for transportation big data: A reinforcement learning-based network traffic prediction approach,,
-"Blockchain-based digital twins: Research trends, issues, and future challenges",,
-Blockchain enabled task offloading based on edge cooperation in the digital twin vehicular edge network,,
-Digital twin for federated analytics using a bayesian approach,,
-Digital twins for dynamic management of blockchain systems,,
-Design and implementation of secure and reliable information interaction architecture for digital twins,,
-MUD-Based behavioral profiling security framework for software-defined IoT networks,,
-Edge centric secure data sharing with digital twins in smart ecosystems,,
-Distributed incentives for intelligent offloading and resource allocation in digital twin driven smart industry,,
-Polymorphic learning of heterogeneous resources in digital twin networks,,
-Digital-twin-assisted task offloading based on edge collaboration in the digital twin edge network,,
-Proof of Evaluation-based energy and delay aware computation offloading for Digital Twin Edge Network,,
-FedTwin: Blockchain-enabled adaptive asynchronous federated learning for digital twin networks,,
-Using network simulators as digital twins of 5G/B5G mobile networks,,
-Blockchain-based secure communication of intelligent transportation digital twins system,,
-Privacy and integrity-preserving data aggregation scheme for wireless sensor networks digital twins,,
-Digital twin-based anomaly detection with curriculum learning in cyber-physical systems,,
-Using NFTs for ownership management of digital twins and for proof of delivery of their physical assets,,
-Deep learning for security in digital twins of cooperative intelligent transportation systems,,
-Detection DDoS of attacks based on federated learning with digital twin network,,
-Towards situational aware cyber-physical systems: A security-enhancing use case of blockchain-based digital twins,,
-Resource allocation based on digital twin-enabled federated learning framework in heterogeneous cellular network,,
-Security analysis of a digital twin framework using probabilistic model checking,,
-An effective privacy-preserving blockchain-assisted security protocol for cloud-based digital twin environment,,
-Digital twin-assisted knowledge distillation framework for heterogeneous federated learning,,
-Privacy by sharing autonomy - a design-integrating engineering approach,,
-Digital Twin-assisted Blockchain-inspired irregular event analysis for eldercare,,
-Using cyber digital twins for automated automotive cybersecurity testing,,
-Task scheduling of real-time traffic information processing based on digital twins,,
-Live virtual constructive environment for assuring the safety and security of complex autonomous vehicles,,
-Blockchain-enabled cyber-physical smart modular integrated construction,,
-Monitoring cyber-physical systems using a tiny twin to prevent cyber-attacks,,
-"Convergence of digital twin and 6G enabled edge intelligence: Theories, algorithms and applications",,
-SDPM: A secure smart device provisioning and monitoring service architecture for smart network infrastructure,,
-VITROBENCH: Manipulating in-vehicle networks and COTS ECUs on your bench A comprehensive test platform for automotive cybersecurity research,,
-Enhancing attack resilience of cyber-physical systems through state dependency graph models,,
-Resilient output formation-tracking of heterogeneous multiagent systems against general byzantine attacks: A twin-layer approach,,
-A systematic survey of attack detection and prevention in Connected and Autonomous Vehicles,,
-DDoS defense for IoT: A stackelberg game model-enabled collaborative framework,,
-A dynamic key management and secure data transfer based on m-tree structure with multi-level security framework for Internet of vehicles,,
-PBTM: A privacy-preserving announcement protocol with blockchain-based trust management for IoV,,
-A framework for secured dissemination of messages in internet of vehicle (IoV) using blockchain approach,,
-LBSV: Lightweight blockchain security protocol for secure storage and communication in SDN-Enabled IoV,,
-Key-based data deduplication via homomorphic NTRU for internet of vehicles,,
-Towards lightweight authentication and batch verification scheme in IoV,,
-Practical privacy-preserving federated learning in vehicular fog computing,,
-Enhanced IoV security network by using blockchain governance game,,
-IoV data sharing scheme based on the hybrid architecture of blockchain and cloud-edge computing,,
-P2SF-IoV: A privacy-preservation-based secured framework for internet of vehicles,,
-A secure and efficient multiserver authentication and key agreement protocol for internet of vehicles,,
-"Secure, privacy preserving, and verifiable federating learning using blockchain for internet of vehicles",,
-LIAS: A lightweight incentive authentication scheme for forensic services in IoV,,
-Secure service offloading for internet of vehicles in SDN-Enabled mobile edge computing,,
-"A blockchain-based efficient, secure and anonymous conditional privacy-preserving and authentication scheme for the internet of vehicles",,
-Efficient anonymous batch authentication scheme with conditional privacy in the internet of vehicles (IoV) applications,,
-A new zero-trust aided smart key authentication scheme in IoV,,
-A location-aware verifiable outsourcing data aggregation in multiblockchains,,
-Security and privacy in connected vehicle cyber physical system using zero knowledge succinct non interactive argument of knowledge over blockchain,,
-Three-factor authentication protocol using physical unclonable function for IoV,,
+Digital twins for dynamic management of blockchain systems,,https://www.catalyzex.com/s/Digital%20twins%20for%20dynamic%20management%20of%20blockchain%20systems
+Digital twin virtualization with machine learning for IoT and beyond 5G networks: Research directions for security and optimal control,,https://www.catalyzex.com/s/Digital%20twin%20virtualization%20with%20machine%20learning%20for%20IoT%20and%20beyond%205G%20networks:%20Research%20directions%20for%20security%20and%20optimal%20control
+Trends and challenges in AIoT/IIoT/IoT implementation,,
+"Digital Twins: State of the art theory and practice, challenges, and open research questions",,"https://www.catalyzex.com/s/Digital%20Twins:%20State%20of%20the%20art%20theory%20and%20practice,%20challenges,%20and%20open%20research%20questions"
+Digital twin-based anomaly detection with curriculum learning in cyber-physical systems,,https://www.catalyzex.com/s/Digital%20twin-based%20anomaly%20detection%20with%20curriculum%20learning%20in%20cyber-physical%20systems
 An efficient heterogeneous blockchain-based online/offline signcryption systems for internet of vehicles,,
-Design of vehicle certification schemes in IoV based on blockchain,,
-AnonSURP: an anonymous and secure ultralightweight RFID protocol for deployment in internet of vehicles systems,,
-HN-mPBFT: A healthy node based modified secure and fast consensus mechanisms for internet of vehicles,,
-CPAHP: Conditional privacy-preserving authentication scheme with hierarchical pseudonym for 5G-Enabled IoV,,
-Proof of accumulated trust: A new consensus protocol for the security of the IoV,,
-Implementing an efficient secure attribute-based encryption system for IoV using association rules,,
-Toward blockchain-enabled IoV with edge computing: Efficient and privacy-preserving vehicular communication and dynamic updating,,
-Cost-efficient privacy-preserving authentication and key management scheme for internet of vehicle ecosystem,,
-Secure authentication and key management protocol for deployment of internet of vehicles (IoV) concerning intelligent transport systems,,
-PSDF: Privacy-aware IoV service deployment with federated learning in cloud-edge computing,,
-An intelligent terminal based privacy-preserving multi-modal implicit authentication protocol for internet of connected vehicles,,
-Cryptographic solution-based secure elliptic curve cryptography enabled radio frequency identification mutual authentication protocol for internet of vehicles,,
-ELCPAS: A new efficient lightweight certificateless conditional privacy preserving authentication scheme for IoV,,
-SaFIoV: A secure and fast communication in fog-based internet-of-vehicles using SDN and blockchain,,
-Efficient certificateless aggregate signature with conditional privacy preservation in IoV,,
-R-PBFT: A secure and intelligent consensus algorithm for Internet of vehicles,,
-Secure and temporary access delegation with equality test for cloud-assisted IoV,,
-A conditional privacy preserving heterogeneous signcryption scheme for internet of vehicles,,
-Security issues in internet of vehicles (IoV): A comprehensive survey,,
-A secure blockchain system for Internet of Vehicles based on 6G-enabled Network in Box,,
-A lightweight certificateless authentication scheme and group key agreement with dynamic updating mechanism for LTE-V-based internet of vehicles in smart cities,,
-FedVPS: Federated learning for privacy and security of internet of vehicles on non-IID data,,
-Fine-grained data sharing with enhanced privacy protection and dynamic users group service for the IoV,,
-IntelligentChain: Blockchain and machine learning based intelligent security application for internet of vehicles (IoV),,
-VBlock: A blockchain-based tamper-proofing data protection model for internet of vehicle networks,,
-Conditional anonymous authentication with abuse-resistant tracing and distributed trust for internet of vehicles,,
-IoVCom: Reliable comprehensive communication system for internet of vehicles,,
-Differentiated security architecture for secure and efficient infotainment data communication in IoV networks,,
-TPM-Based conditional privacy-preserving authentication protocol in VANETs,,
-A lightweight and fog-based authentication scheme for internet-of-vehicles,,
-Secure blockchain-internet of vehicles (B-IoV) mechanism using DPSO and M-ITA algorithms,,
-Vehicle-key: A secret key establishment scheme for LoRa-enabled IoV communications,,
-Machine learning and deep learning approaches in IoT,,
-Modeling and performance analysis of blockchain-aided secure TDOA localization under random internet-of-vehicle networks,,
-Secure and reliable transfer learning framework for 6G-Enabled internet of vehicles,,
-A novel trust-based security and privacy model for Internet of Vehicles using encryption and steganography,,
-An efficient signcryption of heterogeneous systems for Internet of Vehicles,,
-Blockchain and trust-based clustering scheme for the IoV,,
-SDSS: Secure data sharing scheme for edge enabled IoV networks,,
-AI-based intrusion detection for intelligence internet of vehicles,,
-A decentralized lightweight blockchain-based authentication mechanism for Internet of Vehicles,,
-A secure and computationally efficient authentication and key agreement scheme for Internet of Vehicles,,
-Contract-theory-based secure spectrum sharing framework in internet of vehicles,,
-Performance evaluation for secure communications in mobile internet of vehicles with joint reactive jamming and eavesdropping attacks,,
-MeLSeC: A method for lightweight and secure communication in internet of vehicles,,
-Authentication methods for internet of vehicles based on trusted connection architecture,,
-Cloud-based RFID mutual authentication scheme for efficient privacy preserving in IoV,,
-Design of a blockchain enabled secure vehicle-to-vehicle communication system,,
-Secure and efficient blockchain-assisted authentication for edge-integrated internet-of-vehicles,,
-Robust authenticated key agreement protocol for internet of vehicles-envisioned intelligent transportation system,,
-Decentralized trusted data sharing management on internet of vehicle edge computing (IoVEC) networks using consortium blockchain,,
-Privacy-protecting and reputation-based participant recruitment scheme for IoV-Based MCS,,
-An efficient and secure multimessage and multireceiver signcryption scheme for edge-enabled internet of vehicles,,
-A comprehensive survey on the applications of blockchain for securing vehicular networks,,
-Provably secure authentication for the internet of vehicles,,
-Physical layer security assisted computation offloading in intelligently connected vehicle networks,,
-On the design of mutual authentication and key agreement protocol in internet of vehicles-enabled intelligent transportation system,,
-ESAR: Enhanced secure authentication and revocation scheme for vehicular ad hoc networks,,
-Software defined internet of vehicles for automation and orchestration,,
-A trust-based and secure real-time traffic information sharing scheme,,
-Block-CLAP: Blockchain-assisted certificateless key agreement protocol for internet of vehicles in smart transportation,,
-Delay-tolerant and prioritized batch verification system using efficient RSU scheduling in VANET,,
-Enabling efficient data sharing with auditable user revocation for IoV systems,,
-Deep learning-based network traffic prediction for secure backbone networks in internet of vehicles,,
-Dynamic pseudonyms trust-based model to protect attack scenario for internet of vehicle ad-hoc networks,,
-A novel MAC-Based authentication scheme (NoMAS) for internet of vehicles (IoV),,
-An efficient and secure blockchain consensus protocol for internet of vehicles,,
-Interest broadcasting and timing attack in IoV (IBTA-IoV): A novel architecture using named software defined network,,
-Blockchain-enabled certificate-based authentication for vehicle accident detection and notification in intelligent transportation systems,,
-Machine-learning-based efficient and secure RSU placement mechanism for software-defined-IoV,,
-Communication quality prediction for internet of vehicle (IoV) networks: An elman approach,,
-Game theory-based authentication framework to secure internet of vehicles with blockchain,,
-ZAMA: A ZKP-Based anonymous mutual authentication scheme for the IoV,,
-Design of blockchain-based lightweight V2I handover authentication protocol for VANET,,
-A blockchain-based lightweight authentication and key agreement scheme for internet of vehicles,,
-Real-time position falsification attack detection system for internet of vehicles,,
-EASBF: An efficient authentication scheme over blockchain for fog computing-enabled internet of vehicles,,
-Blockchain-envisioned provably secure multivariate identity-based multi-signature scheme for internet of vehicles environment,,
-An efficient certificateless authenticated key exchange protocol resistant to ephemeral key leakage attack for V2V communication in IoV,,
-Cloud enabled Blockchain-based secured communication in mutual intelligent transportation using neural synchronization,,
-Blockchain and deep reinforcement learning empowered spatial crowdsourcing in software-defined internet of vehicles,,
-Secure and efficient honey list-based authentication protocol for vehicular ad hoc networks,,
-Security analysis on é³ã¦ç¿»hree-factor authentication protocol using physical unclonable function for IoVé?,,
-World state attack to blockchain based IoV and efficient protection with hybrid RSUs architecture,,
-Cloud-edge data encryption in the internet of vehicles using Zeckendorf representation,,
-PPRT: Privacy preserving and reliable trust-aware platoon recommendation scheme in IoV,,
-Optimized security algorithms for intelligent and autonomous vehicular transportation systems,,
-CTMF: Context-aware trust management framework for internet of vehicles,,
-EC-BAAS: Elliptic curve-based batch anonymous authentication scheme for Internet of Vehicles,,
-"When trust meets the internet of vehicles: Opportunities, challenges, and future prospects",,
-SG-PBFT: A secure and highly efficient distributed blockchain PBFT consensus algorithm for intelligent Internet of vehicles,,
-Federated learning with blockchain for privacy-preserving data sharing in internet of vehicles,,
-A cross-trusted authority authentication protocol for internet of vehicles based on blockchain,,
-CacheIn: A secure distributed multi-layer mobility-assisted edge intelligence based caching for internet of vehicles,,
-LVBS: Lightweight vehicular blockchain for secure data sharing in disaster rescue,,
-IoV and blockchain-enabled driving guidance strategy in complex traffic environment,,
-A secure and scalable framework for blockchain based edge computation offloading in social internet of vehicles,,
-Cost-efficient blockchain application to secure data transmission in heterogeneous FANETs,,
-Deep learning-based intrusion detection system for internet of vehicles,,
-"VASERP: An adaptive, lightweight, secure, and efficient RFID-Based authentication scheme for IoV",,
-Transfer learning-driven intrusion detection for internet of vehicles (IoV),,
-A secure intelligent system for internet of vehicles: Case study on traffic forecasting,,
-Securing connected vehicle applications with an efficient dual cyber-physical blockchain framework,,
-A novel cybersecurity architecture for IoV communication,,
-Delay aware secure computation offloading in NOMA aided MEC for IoV networks,,
-ReTrust: reliability and recommendation trust-based scheme for secure data sharing among internet of vehicles (IoV),,
-Blockchain-based adaptive trust management in internet of vehicles using smart contract,,
-BEPHAP: A blockchain-based efficient privacy-preserving handover authentication protocol with key agreement for internet of vehicles,,
-"Collusion-resistant, lightweight and privacy-preserving authentication protocol for IoV",,
-DiLSe: Lattice-based secure and dependable data dissemination scheme for social internet of vehicles,,
-Token-based authorization and authentication for secure internet of vehicles communication,,
-Blockchain for the internet of vehicles: How to use blockchain to secure vehicle-to-everything (V2X) communication and payment?,,
-A secure and trusted context prediction for next generation autonomous vehicles,,
-Lagrange coded federated learning (L-CoFL) model for internet of vehicles,,
-Risk analysis of a GDPR-Compliant deletion technique for consortium blockchains based on pseudonymization,,
-LoRCA: Lightweight round block and stream cipher algorithms for IoV systems,,
-Federated-LSTM based network intrusion detection method for intelligent connected vehicles,,
-A secure key aggregate searchable encryption with multi delegation in cloud data sharing service,,
-Emergency vehicle identification for internet of vehicles based on federated learning and homomorphic encryption,,
-"Blockchain based optimized data storage with secure communication for Internet of Vehicles considering active, passive, and double spending attacks",,
-Federated learning with blockchain approach for trust management in IoV,,
-A dual blockchain-based decentralized architecture for authentication and communication in VANET,,
-Secure and efficient stigmergy-empowered blockchain framework for heterogeneous collaborative services in the internet of vehicles,,
-A machine-learning-based data-centric misbehavior detection model for internet of vehicles,,
-EECAAP: Efficient edge-computing based anonymous authentication protocol for IoV,,
-VFAS: Reliable and privacy-preserving V2F authentication scheme for road condition monitoring system in IoV,,
-Non-intrusive security assessment methods for future autonomous transportation IoV,,
-A real-time explainable anomaly detection system for connected vehicles,,
-IIDS: Intelligent intrusion detection system for sustainable development in autonomous vehicles,,
-PPIoV: A privacy preserving-based framework for IoV-Fog environment using federated learning and blockchain,,
-Privacy and trust in the internet of vehicles,,
-A federated bidirectional connection broad learning scheme for secure data sharing in internet of vehicles,,
-Multi-domain denial-of-service attacks in internet-of-vehicles: Vulnerability insights and detection performance,,
-Lightweight-BIoV: Blockchain distributed ledger technology (BDLT) for internet of vehicles (IoVs),,
-Blockchain-based method for pre-authentication and handover authentication of IoV vehicles,,
-The failure of trust in trusted systems,,
-RTED-SD: A real-time edge detection scheme for sybil DDoS in the internet of vehicles,,
-FL-MAAE: An Intrusion Detection Method for the Internet of Vehicles Based on Federated Learning and Memory-Augmented Autoencoder,,
-"Towards secure intra-vehicle communications in 5G advanced and beyond: Vulnerabilities, attacks and countermeasures",,
-GoDeep: Intelligent IoV service deployment and execution with privacy preservation in cloud-edge computing,,
-A parallel consensus mechanism using PBFT based on DAG-Lattice structure in the internet of vehicles,,
-Statistical detection of adversarial examples in blockchain-based federated forest in-vehicle network intrusion detection systems,,
-Stable and secure clustering for internet of vehicles with RSU-assisted maintenance and trust management,,
-Delay aware secure offloading for NOMA-Assisted mobile edge computing in internet of vehicles,,
-Encrypted data retrieval and sharing scheme in space-air-ground-integrated vehicular networks,,
-A road side unit based proxy signature scheme for fast verification of messages in vehicular ad-hoc network,,
-A blockchain-based Roadside Unit-assisted authentication and key agreement protocol for Internet of Vehicles,,
-Privacy preserving misbehavior detection in IoV using federated machine learning,,
-A provably secure key transfer protocol for the fog-enabled Social Internet of Vehicles based on a confidential computing environment,,
-A privacy-preserving and scalable authentication protocol for the internet of vehicles,,
-Reducing revocation latency in IoV using edge computing and permissioned blockchain,,
-B-FERL: Blockchain based framework for securing smart vehicles,,
-"Security, trust, and privacy for the internet of vehicles: A deep learning approach",,
-Efficient attribute-based signature with collusion resistance for internet of vehicles,,
-Federated Learning-Based Collaborative Authentication Protocol for Shared Data in Social IoV,,
-A blockchain-based multi-factor authentication model for a cloud-enabled internet of vehicles,,
-Falsification detection system for IoV using randomized search optimization ensemble algorithm,,
-Investigation on cyber-attacks against in-vehicle network,,
-General logic-operation-based lightweight group-key distribution schemes for Internet of Vehicles,,
-Blockchain and cooperative intelligent transport systems: Challenges and opportunities,,
-HoneyCar: A framework to configure honeypot vulnerabilities on the internet of vehicles,,
-SURFER: A secure SDN-Based routing protocol for internet of vehicles,,
-A privacy-preserving vehicular data sharing framework atop multi-sharding blockchain,,
-Secure knowledge sharing in internet of vehicles: A DAG-Enabled blockchain framework,,
-Blockchain-based batch authentication protocol for Internet of Vehicles,,
-A reservoir computing-based distributed trust sharing provisioning for internet of vehicle,,
-Secure connected vehicle-based traffic signal systems against data spoofing attacks,,
-HDL-IDS: A hybrid deep learning architecture for intrusion detection in the internet of vehicles,,
-Guest editorial: Introduction to the special section on sustainable security solutions for Internet of Vehicles (VSI-iov),,
-"Next generation vehicles, safety, and cybersecurity-the CMX framework",,
-Trust on wheels: Towards secure and resource efficient IoV networks,,
-PPO2: Location privacy-oriented task offloading to edge computing using reinforcement learning for intelligent autonomous transport systems,,
-Towards blockchain-enabled intrusion detection for vehicular navigation map system,,
-An intelligent security framework based on collaborative mutual authentication model for smart city networks,,
-CREASE: Certificateless and REused-pseudonym based Authentication Scheme for Enabling security and privacy in VANETs,,
-A data-driven noninteractive authentication scheme for the internet of vehicles in mobile heterogeneous networks,,
-SGXAP: SGX-Based authentication protocol in IoV-Enabled fog computing,,
+?i?D-BLAC:?/i? A dual blockchain-based decentralized architecture for authentication and communication in VANET,,
+Statistical Detection of Adversarial Examples in Blockchain-Based Federated Forest In-Vehicle Network Intrusion Detection Systems,,https://www.catalyzex.com/s/Statistical%20Detection%20of%20Adversarial%20Examples%20in%20Blockchain-Based%20Federated%20Forest%20In-Vehicle%20Network%20Intrusion%20Detection%20Systems
 Efficient Offline/Online heterogeneous-aggregated signcryption protocol for edge computing-based internet of vehicles,,
-Protecting the internet of vehicles against advanced persistent threats: A bayesian stackelberg game,,
-Intrusion detection in intelligent connected vehicles based on weighted self-information,,
-How to mitigate DDoS intelligently in SD-IoV: A moving target defense approach,,
-Reputation-based regional federated learning for knowledge trading in blockchain-enhanced IoV,,
-Intrusion Detection Method for Internet of Vehicles Based on Parallel Analysis of Spatio-Temporal Features,,
-Change point models for real-time cyber attack detection in connected vehicle environment,,
-Implementing efficient attribute encryption in IoV under cloud environments,,
-A blockehain-based solution for reputation management in IoV,,
-FedTSE: Low-cost federated learning for privacy-preserved traffic state estimation in IoV,,
-Software-defined network-based dynamic access control mechanism for internet of vehicles using Adaboost,,
-Feasibility analysis of data transmission in partially damaged IoT networks of vehicles,,
-The security of internet of vehicles network: Adversarial examples for trajectory mode detection,,
-Ultra reliable and low latency authentication scheme for internet of vehicles based on blockchain,,
-Forgery trajectory injection attack detection for traffic lights under connected vehicle environment,,
-DRiVe: Detecting malicious roadside units in the internet of vehicles with low latency data integrity,,
-A federated learning based privacy-preserving data sharing scheme for internet of vehicles,,
-Anomaly detection from cyber threats via infrastructure to automated vehicle,,
-Reinforcement learning based misbehavior detection in vehicular networks,,
-Efficient rate-splitting multiple access for the internet of vehicles: Federated edge learning and latency minimization,,
-Enhancing trustworthiness of internet of vehicles in space-air-ground-integrated networks: Attestation approach,,
-Supervised machine learning tools and PUF based internet of vehicles authentication framework,,
-TREE: Trust-based authenticated and secure dissemination of emergency event information for the network of connected vehicles,,
-RepBFL: Reputation based blockchain-enabled federated learning framework for data sharing in internet of vehicles,,
-Dynamic federated learning-based economic framework for internet-of-vehicles,,
-Communication security analysis of intelligent transportation system using 5G internet of things from the perspective of big data,,
-A smart network resource management system for high mobility edge computing in 5G internet of vehicles,,
-PPM-InVIDS: Privacy protection model for in-vehicle intrusion detection system based complex-valued neural network,,
-Multi-party anonymous authentication scheme in heterogeneous network slicing,,
-LCCDE: A decision-based ensemble framework for intrusion detection in the internet of vehicles,,
-A double-layer blockchain based trust management model for secure internet of vehicles,,
-NOTRINO: A NOvel hybrid TRust management scheme for INternet-of-Vehicles,,
-Coalition based utility and efficiency optimization for multi-task federated learning in Internet of Vehicles,,
-SVMDformer: A semi-supervised vehicular misbehavior detection framework based on transformer in IoV,,
-A DAG-Based reputation mechanism for preventing peer disclosure in SIoV,,
-GNN-RL: Dynamic reward mechanism for connected vehicle security using graph neural networks and reinforcement learning,,
-Federated AI-Enabled in-vehicle network intrusion detection for internet of vehicles,,
-A lightweight intrusion detection system for internet of vehicles based on transfer learning and MobileNetV2 with hyper-parameter optimization,,
-An intelligent edge-chain-enabled access control mechanism for IoV,,
-A personalized learning scheme for internet of vehicles caching,,
-MVMAFOL: A multi-access three-layer federated online learning algorithm for internet of vehicles,,
-An explainable deep learning framework for resilient intrusion detection in IoT-Enabled transportation networks,,
-ARTNet: Ai-based resource allocation and task offloading in a reconfigurable internet of vehicular networks,,
-A transfer learning and optimized CNN based intrusion detection system for internet of vehicles,,
-An automotive reference testbed with trusted security services,,
-A multidisciplinary detection system for cyber attacks on Powertrain Cyber Physical Systems,,
-Proof of travel for trust-based data validation in V2I communication,,
-Collaborative and intelligent resource optimization for computing and caching in IoV with blockchain and MEC using A3C approach,,
-ImageFed: Practical privacy preserving intrusion detection system for in-vehicle CAN bus protocol,,
-Machine Learning based intrusion detection systems for connected autonomous vehicles: A survey,,
-Blockchain-based collaborative certificate revocation systems using clustering,,
-Blockchain-assisted reputation management scheme for internet of vehicles,,
-A federated learning framework based on incremental weighting and diversity selection for internet of vehicles,,
-Application of Controller Area Network (CAN) bus anomaly detection based on time series prediction,,
-A trust evaluation method based on environmental assessment in the perception layer of internet of vehicles,,
-GTMS: A gated linear unit based trust management system for internet of vehicles using blockchain technology,,
-Physical layer authentication in the internet of vehicles through multiple vehicle-based physical attributes prediction,,
-Automated discovery of denial-of-service vulnerabilities in connected vehicle protocols,,
-Reliable task offloading mechanism based on trusted roadside unit service for internet of vehicles,,
-Real-time sensor anomaly detection and recovery in connected automated vehicle sensors,,
-A survey on computation resource allocation in IoT enabled vehicular edge computing,,
-Federated learning-based vehicle trajectory prediction against cyberattacks,,
-Information fusion in autonomous vehicle using artificial neural group key synchronization,,
-Evaluation of the architecture alternatives for real-time intrusion detection systems for vehicles,,
-Targeted discreditation attack against trust management in connected vehicles,,
-IoT-Based dynamic map attributes for connected and autonomous vehicles,,
-MTH-IDS: A multitiered hybrid intrusion detection system for internet of vehicles,,
-Interference-aware modeling and analysis for the secrecy performance of cooperative vehicular relaying networks over mixed Nakagami-m and double Nakagami-m fading channels,,
-CD-DAA-MD: A cross-domain DAA scheme with mimic defense for internet of vehicles,,
-A framework for evaluating connected vehicle security against false data injection attacks,,
-A probabilistic data structures-based anomaly detection scheme for software-defined internet of vehicles,,
-Privacy enabled driver behavior analysis in heterogeneous IoV using federated learning,,
-A cluster-based multidimensional approach for detecting attacks on connected vehicles,,
-Making a case for federated learning in the internet of vehicles and intelligent transportation systems,,
-CVGuard: Mitigating application attacks on connected vehicles,,
-Connected and autonomous vehicles against a malware spread : A stochastic modeling approach,,
-Resilient distributed event-triggered platooning control of connected vehicles under denial-of-service attacks,,
-Explosive cyber security threats during COVID-19 pandemic and a novel tree-based broad learning system to overcome,,
-Computation offloading and heterogeneous task caching in MEC-enabled vehicular networks,,
-Research on cyberattack detection of connected automated vehicles based on support vector machine,,
-On the cybersecurity of traffic signal control system with connected vehicles,,
-Consortium blockchain-based computation offloading using mobile edge platoon cloud in internet of vehicles,,
+LCCDE: A decision-based ensemble framework for intrusion detection in the internet of vehicles,,https://www.catalyzex.com/s/LCCDE:%20A%20decision-based%20ensemble%20framework%20for%20intrusion%20detection%20in%20the%20internet%20of%20vehicles
+A transfer learning and optimized CNN based intrusion detection system for internet of vehicles,,https://www.catalyzex.com/s/A%20transfer%20learning%20and%20optimized%20CNN%20based%20intrusion%20detection%20system%20for%20internet%20of%20vehicles
+Real-time sensor anomaly detection and recovery in connected automated vehicle sensors,,https://www.catalyzex.com/s/Real-time%20sensor%20anomaly%20detection%20and%20recovery%20in%20connected%20automated%20vehicle%20sensors
 A heterogeneous online/offline signcryption scheme for Internet of Vehicles,,
-ClockIDS: A real-time vehicle intrusion detection system based on clock skew,,
-"Mobility, communication and computation aware federated learning for internet of vehicles",,
-QoE-Driven edge caching in vehicle networks based on deep reinforcement learning,,
-Enhanced intrusion detection system based on AutoEncoder network and support vector machine,,
-éåæ¤¹ç¢d Hocé?iæ¤?vehicular fog enabling cooperative low-latency intrusion detection,,
-Adversarial online learning with variable plays in the pursuit-evasion game: Theoretical foundations and application in connected and automated vehicle cybersecurity,,
-Content-based vehicle selection and resource allocation for federated learning in IoV,,
-Side-channel security analysis of connected vehicle communications using hidden markov models,,
-Non-cooperative learning for robust spectrum sharing in connected vehicles with malicious agents,,
-TCNS: An efficient trusted cooperative node selection model for internet of vehicles,,
-Vehicular-network-intrusion detection based on a mosaic-coded convolutional neural network,,
-Covert communications with friendly jamming in Internet of vehicles,,
-Hierarchical decentralized federated learning framework with adaptive clustering: Bloom-filter-based companions choice for learning non-IID data in IoV,,
-Learning-aided fine grained offloading for real-time applications in edge-cloud computing,,
-Crowd-learning: A behavior-based verification method in software-defined vehicular networks with MEC framework,,
-Cyber attack detection for self-driving vehicle networks using deep autoencoder algorithms,,
-TCAN-IDS: Intrusion detection system for internet of vehicle using temporal convolutional attention network,,
-Safety risk focused analysis of V2V communication especially considering cyberattack sensitive network performance and vehicle dynamics factors,,
-An intelligent caching strategy considering time-space characteristics in vehicular named data networks,,
-A heuristic distributed scheme to detect falsification of mobility patterns in internet of vehicles,,
-Mobile edge-based information-centric network for emergency messages dissemination in internet of vehicles: A deep learning approach,,
-A Review of Digital Twins and their Application in Cybersecurity based on Artificial Intelligence,,
-"From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks",,
-TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports,,
-"VDKMS: Vehicular Decentralized Key Management System for Cellular Vehicular-to-Everything Networks, A Blockchain-Based Approach",,
-Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey,,
-A Multilayered Security Infrastructure for Connected Vehicles -- First Lessons from the Field,,
-Secure Decentralized Learning with Blockchain,,
-Digital Twin-Empowered Smart Attack Detection System for 6G Edge of Things Networks,,
-"Pretrain, Prompt, and Transfer: Evolving Digital Twins for Time-to-Event Analysis in Cyber-physical Systems",,
-Digital Twins and the Future of their Use Enabling Shift Left and Shift Right Cybersecurity Operations,,
-Incentivizing Private Data Sharing in Vehicular Networks: A Game-Theoretic Approach,,
-Federated Learning in Intelligent Transportation Systems: Recent Applications and Open Problems,,
-Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks,,
+?i?Ad Hoc?/i? vehicular fog enabling cooperative low-latency intrusion detection,,
+Adversarial Online Learning With Variable Plays in the Pursuit-Evasion Game: Theoretical Foundations and Application in Connected and Automated Vehicle Cybersecurity,,https://www.catalyzex.com/s/Adversarial%20Online%20Learning%20With%20Variable%20Plays%20in%20the%20Pursuit-Evasion%20Game:%20Theoretical%20Foundations%20and%20Application%20in%20Connected%20and%20Automated%20Vehicle%20Cybersecurity
+Federated Learning on Edge Sensing Devices: A Review,,https://www.catalyzex.com/s/Federated%20Learning%20on%20Edge%20Sensing%20Devices:%20A%20Review
+A Review of Digital Twins and their Application in Cybersecurity based on Artificial Intelligence,,https://www.catalyzex.com/s/A%20Review%20of%20Digital%20Twins%20and%20their%20Application%20in%20Cybersecurity%20based%20on%20Artificial%20Intelligence
+"From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks",,"https://www.catalyzex.com/s/From%20Generative%20AI%20to%20Generative%20Internet%20of%20Things:%20Fundamentals,%20Framework,%20and%20Outlooks"
+TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports,,https://www.catalyzex.com/s/TwinPot:%20Digital%20Twin-assisted%20Honeypot%20for%20Cyber-Secure%20Smart%20Seaports
+Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey,,https://www.catalyzex.com/s/Applications%20of%20Distributed%20Machine%20Learning%20for%20the%20Internet-of-Things:%20A%20Comprehensive%20Survey
+Secure Decentralized Learning with Blockchain,,https://www.catalyzex.com/s/Secure%20Decentralized%20Learning%20with%20Blockchain
+Federated Learning: A Cutting-Edge Survey of the Latest Advancements and Applications,,https://www.catalyzex.com/s/Federated%20Learning:%20A%20Cutting-Edge%20Survey%20of%20the%20Latest%20Advancements%20and%20Applications
+Digital Twin-Empowered Smart Attack Detection System for 6G Edge of Things Networks,,https://www.catalyzex.com/s/Digital%20Twin-Empowered%20Smart%20Attack%20Detection%20System%20for%206G%20Edge%20of%20Things%20Networks
+"Autonomous Vehicles an overview on system, cyber security, risks, issues, and a way forward",,"https://www.catalyzex.com/s/Autonomous%20Vehicles%20an%20overview%20on%20system,%20cyber%20security,%20risks,%20issues,%20and%20a%20way%20forward"
+Federated Learning in Intelligent Transportation Systems: Recent Applications and Open Problems,,https://www.catalyzex.com/s/Federated%20Learning%20in%20Intelligent%20Transportation%20Systems:%20Recent%20Applications%20and%20Open%20Problems
+Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks,,https://www.catalyzex.com/s/Roulette:%20A%20Semantic%20Privacy-Preserving%20Device-Edge%20Collaborative%20Inference%20Framework%20for%20Deep%20Learning%20Classification%20Tasks
+Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges,,https://www.catalyzex.com/s/Federated%20Learning%20for%20Connected%20and%20Automated%20Vehicles:%20A%20Survey%20of%20Existing%20Approaches%20and%20Challenges
 Secure and Dynamic Publish/Subscribe: LCMsec,,
-Data-Driven Intelligence can Revolutionize Today's Cybersecurity World: A Position Paper,,
-FLight: A Lightweight Federated Learning Framework in Edge and Fog Computing,,
-Resilient and Privacy-Preserving Threshold Vehicular Public Key Infrastructure (VPKI),,
-Integration of Digital Twin and Federated Learning for Securing Vehicular Internet of Things,,
-"Enhancing Network Slicing Architectures With Machine Learning, Security, Sustainability and Experimental Networks Integration",,
-ASCH-PUF: A é³ã¦èeroé?Bit Error Rate CMOS Physically Unclonable Function With Dual-Mode Low-Cost Stabilization,,
-Building Trust Profiles in Conditionally Automated Driving,,
-Integrating Usage Control Into Distributed Ledger Technology for Internet of Things Privacy,,
-BFRT: Blockchained Federated Learning for Real-time Traffic Flow Prediction,,
-ESIA: An Efficient and Stable Identity Authentication for Internet of Vehicles,,
-A Location-based and Hierarchical Framework for Fast Consensus in Blockchain Networks,,
-V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection,,
-VEDLIoT,,
-ZIRCON: Zero-watermarking-based approach for data integrity and secure provenance in IoT networks,,
-Universal Adversarial Backdoor Attacks to Fool Vertical Federated Learning in Cloud-Edge Collaboration,,
-FoggyEdge: An Information Centric Computation Offloading and Management Framework for Edge-based Vehicular Fog Computing,,
-Authenticated and Secure Automotive Service Discovery with DNSSEC and DANE,,
-BlockChain and Decentralized Apps,,
-Reconfigurable Intelligent Surface-Assisted Cross-Layer Authentication for Secure and Efficient Vehicular Communications,,
-Computation and Privacy Protection for Satellite-Ground Digital Twin Networks,,
-Differentially Private Deep Q-Learning for Pattern Privacy Preservation in MEC Offloading,,
-Decentralized Zero-Trust Framework for Digital Twin-based 6G,,
-Improving unlinkability in C-ITS: a methodology for optimal obfuscation,,
-Identification and Verification of Attack-Tree Threat Models in                     Connected Vehicles,,
-Encryption Mechanism And Resource Allocation Optimization Based On Edge Computing Environment,,
-Defining C-ITS Environment and Attack Scenarios,,
-Partial Disentanglement with Partially-Federated GANs (PaDPaF),,
-GowFed -- A novel Federated Network Intrusion Detection System,,
-PASS: A Parameter Audit-based Secure and Fair Federated Learning Scheme against Free-Rider Attack,,
-Sparse Federated Learning with Hierarchical Personalized Models,,
-Network Anomaly Detection in Cars: A Case for Time-Sensitive Stream Filtering and Policing,,
-Secure Blockchain-Based Supply Chain Management with Verifiable Digital Twins,,
+"Privacy and Security in Ubiquitous Integrated Sensing and Communication: Threats, Challenges and Future Directions",,"https://www.catalyzex.com/s/Privacy%20and%20Security%20in%20Ubiquitous%20Integrated%20Sensing%20and%20Communication:%20Threats,%20Challenges%20and%20Future%20Directions"
+Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey,,https://www.catalyzex.com/s/Federated%20Learning%20for%20Computationally-Constrained%20Heterogeneous%20Devices:%20A%20Survey
+Building Trust Profiles in Conditionally Automated Driving,,https://www.catalyzex.com/s/Building%20Trust%20Profiles%20in%20Conditionally%20Automated%20Driving
+V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection,,https://www.catalyzex.com/s/V2X-Boosted%20Federated%20Learning%20for%20Cooperative%20Intelligent%20Transportation%20Systems%20with%20Contextual%20Client%20Selection
+VEDLIoT,,https://www.catalyzex.com/s/VEDLIoT
+Universal Adversarial Backdoor Attacks to Fool Vertical Federated Learning in Cloud-Edge Collaboration,,https://www.catalyzex.com/s/Universal%20Adversarial%20Backdoor%20Attacks%20to%20Fool%20Vertical%20Federated%20Learning%20in%20Cloud-Edge%20Collaboration
+A Survey of Federated Learning for Connected and Automated Vehicles,,https://www.catalyzex.com/s/A%20Survey%20of%20Federated%20Learning%20for%20Connected%20and%20Automated%20Vehicles
+Reconfigurable Intelligent Surface-Assisted Cross-Layer Authentication for Secure and Efficient Vehicular Communications,,https://www.catalyzex.com/s/Reconfigurable%20Intelligent%20Surface-Assisted%20Cross-Layer%20Authentication%20for%20Secure%20and%20Efficient%20Vehicular%20Communications
+Deep Learning for Inertial Positioning: A Survey,,https://www.catalyzex.com/s/Deep%20Learning%20for%20Inertial%20Positioning:%20A%20Survey
+Computation and Privacy Protection for Satellite-Ground Digital Twin Networks,,https://www.catalyzex.com/s/Computation%20and%20Privacy%20Protection%20for%20Satellite-Ground%20Digital%20Twin%20Networks
+Differentially Private Deep Q-Learning for Pattern Privacy Preservation in MEC Offloading,,https://www.catalyzex.com/s/Differentially%20Private%20Deep%20Q-Learning%20for%20Pattern%20Privacy%20Preservation%20in%20MEC%20Offloading
+Survey of Knowledge Distillation in Federated Edge Learning,,https://www.catalyzex.com/s/Survey%20of%20Knowledge%20Distillation%20in%20Federated%20Edge%20Learning
+Partial Disentanglement with Partially-Federated GANs (PaDPaF),,https://www.catalyzex.com/s/Partial%20Disentanglement%20with%20Partially-Federated%20GANs%20(PaDPaF)
+GowFed -- A novel Federated Network Intrusion Detection System,,https://www.catalyzex.com/s/GowFed%20--%20A%20novel%20Federated%20Network%20Intrusion%20Detection%20System
+"The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning",,"https://www.catalyzex.com/s/The%20Paradox%20of%20Noise:%20An%20Empirical%20Study%20of%20Noise-Infusion%20Mechanisms%20to%20Improve%20Generalization,%20Stability,%20and%20Privacy%20in%20Federated%20Learning"
+Interpretable Graph Anomaly Detection using Gradient Attention Maps,,https://www.catalyzex.com/s/Interpretable%20Graph%20Anomaly%20Detection%20using%20Gradient%20Attention%20Maps
+Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction,,https://www.catalyzex.com/s/Scale-MIA:%20A%20Scalable%20Model%20Inversion%20Attack%20against%20Secure%20Federated%20Learning%20via%20Latent%20Space%20Reconstruction
+Aggregation Weighting of Federated Learning via Generalization Bound Estimation,,https://www.catalyzex.com/s/Aggregation%20Weighting%20of%20Federated%20Learning%20via%20Generalization%20Bound%20Estimation
+Federated Learning with Manifold Regularization and Normalized Update Reaggregation,,https://www.catalyzex.com/s/Federated%20Learning%20with%20Manifold%20Regularization%20and%20Normalized%20Update%20Reaggregation
+Preserving Node-level Privacy in Graph Neural Networks,,https://www.catalyzex.com/s/Preserving%20Node-level%20Privacy%20in%20Graph%20Neural%20Networks
+Blockchain-Enabled Federated Learning Approach for Vehicular Networks,,https://www.catalyzex.com/s/Blockchain-Enabled%20Federated%20Learning%20Approach%20for%20Vehicular%20Networks
+"Private, efficient, and accurate: Protecting models trained by multi-party learning with differential privacy",,"https://www.catalyzex.com/s/Private,%20efficient,%20and%20accurate:%20Protecting%20models%20trained%20by%20multi-party%20learning%20with%20differential%20privacy"
+Unlearning via sparse representations,,https://www.catalyzex.com/s/Unlearning%20via%20sparse%20representations
+A survey on vulnerability of federated learning: A learning algorithm perspective,,https://www.catalyzex.com/s/A%20survey%20on%20vulnerability%20of%20federated%20learning:%20A%20learning%20algorithm%20perspective
+Scheduling and communication schemes for decentralized federated learning,,https://www.catalyzex.com/s/Scheduling%20and%20communication%20schemes%20for%20decentralized%20federated%20learning
+Using Decentralized Aggregation for Federated Learning with Differential Privacy,,https://www.catalyzex.com/s/Using%20Decentralized%20Aggregation%20for%20Federated%20Learning%20with%20Differential%20Privacy
+VeryFL: A verify federated learning framework embedded with blockchain,,https://www.catalyzex.com/s/VeryFL:%20A%20verify%20federated%20learning%20framework%20embedded%20with%20blockchain
+Evaluating multi-global server architecture for federated learning,,https://www.catalyzex.com/s/Evaluating%20multi-global%20server%20architecture%20for%20federated%20learning
+Eliminating domain bias for federated learning in representation space,,https://www.catalyzex.com/s/Eliminating%20domain%20bias%20for%20federated%20learning%20in%20representation%20space
+A Comprehensive Survey on the Convergence of Vehicular Social Networks and Fog Computing,,https://www.catalyzex.com/s/A%20Comprehensive%20Survey%20on%20the%20Convergence%20of%20Vehicular%20Social%20Networks%20and%20Fog%20Computing
+Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems,,https://www.catalyzex.com/s/Making%20Users%20Indistinguishable:%20Attribute-wise%20Unlearning%20in%20Recommender%20Systems
+Detecting anomalous network communication patterns using graph convolutional networks,,https://www.catalyzex.com/s/Detecting%20anomalous%20network%20communication%20patterns%20using%20graph%20convolutional%20networks
+Data-agnostic model poisoning against federated learning: A graph autoencoder approach,,https://www.catalyzex.com/s/Data-agnostic%20model%20poisoning%20against%20federated%20learning:%20A%20graph%20autoencoder%20approach
+Poisoning attacks against contrastive recommender systems,,https://www.catalyzex.com/s/Poisoning%20attacks%20against%20contrastive%20recommender%20systems
+MOB-FL: Mobility-aware federated learning for intelligent connected vehicles,,https://www.catalyzex.com/s/MOB-FL:%20Mobility-aware%20federated%20learning%20for%20intelligent%20connected%20vehicles
+Hybrid PLS-ML authentication scheme for V2I communication networks,,https://www.catalyzex.com/s/Hybrid%20PLS-ML%20authentication%20scheme%20for%20V2I%20communication%20networks
+PROFL: A privacy-preserving federated learning method with stringent defense against poisoning attacks,,https://www.catalyzex.com/s/PROFL:%20A%20privacy-preserving%20federated%20learning%20method%20with%20stringent%20defense%20against%20poisoning%20attacks
+Distributed optimization with feasible set privacy,,https://www.catalyzex.com/s/Distributed%20optimization%20with%20feasible%20set%20privacy
+PAC privacy preserving diffusion models,,https://www.catalyzex.com/s/PAC%20privacy%20preserving%20diffusion%20models
+Mitigating data injection attacks on federated learning,,https://www.catalyzex.com/s/Mitigating%20data%20injection%20attacks%20on%20federated%20learning
+Federated Learning is Better with Non-Homomorphic Encryption,,https://www.catalyzex.com/s/Federated%20Learning%20is%20Better%20with%20Non-Homomorphic%20Encryption
+"The landscape of modern machine learning: A review of machine, distributed and federated learning",,"https://www.catalyzex.com/s/The%20landscape%20of%20modern%20machine%20learning:%20A%20review%20of%20machine,%20distributed%20and%20federated%20learning"
+Towards transferable adversarial attacks with centralized perturbation,,https://www.catalyzex.com/s/Towards%20transferable%20adversarial%20attacks%20with%20centralized%20perturbation
+Beyond gradient and priors in privacy attacks: Leveraging pooler layer inputs of language models in federated learning,,https://www.catalyzex.com/s/Beyond%20gradient%20and%20priors%20in%20privacy%20attacks:%20Leveraging%20pooler%20layer%20inputs%20of%20language%20models%20in%20federated%20learning
+Exploiting label skews in federated learning with model concatenation,,https://www.catalyzex.com/s/Exploiting%20label%20skews%20in%20federated%20learning%20with%20model%20concatenation
+Federated learning empowered by generative content,,https://www.catalyzex.com/s/Federated%20learning%20empowered%20by%20generative%20content
+QMGeo: Differentially private federated learning via stochastic quantization with mixed truncated geometric distribution,,https://www.catalyzex.com/s/QMGeo:%20Differentially%20private%20federated%20learning%20via%20stochastic%20quantization%20with%20mixed%20truncated%20geometric%20distribution
+Multi-dimensional fair federated learning,,https://www.catalyzex.com/s/Multi-dimensional%20fair%20federated%20learning
+Privacy preserving multi-agent reinforcement learning in supply chains,,https://www.catalyzex.com/s/Privacy%20preserving%20multi-agent%20reinforcement%20learning%20in%20supply%20chains
+Change Point Models for Real-Time Cyber Attack Detection in Connected Vehicle Environment,,https://www.catalyzex.com/s/Change%20Point%20Models%20for%20Real-Time%20Cyber%20Attack%20Detection%20in%20Connected%20Vehicle%20Environment
+Federated learning-based vehicle trajectory prediction against cyberattacks,,https://www.catalyzex.com/s/Federated%20learning-based%20vehicle%20trajectory%20prediction%20against%20cyberattacks
+Dynamic heterogeneous federated learning with multi-level prototypes,,https://www.catalyzex.com/s/Dynamic%20heterogeneous%20federated%20learning%20with%20multi-level%20prototypes
+Calibrated one round federated learning with bayesian inference in the predictive space,,https://www.catalyzex.com/s/Calibrated%20one%20round%20federated%20learning%20with%20bayesian%20inference%20in%20the%20predictive%20space
+Perspectives on the state and future of deep learning -- 2023,,https://www.catalyzex.com/s/Perspectives%20on%20the%20state%20and%20future%20of%20deep%20learning%20--%202023
+No prejudice! fair federated graph neural networks for personalized recommendation,,https://www.catalyzex.com/s/No%20prejudice!%20fair%20federated%20graph%20neural%20networks%20for%20personalized%20recommendation
+SAME: Sample reconstruction against model extraction attacks,,https://www.catalyzex.com/s/SAME:%20Sample%20reconstruction%20against%20model%20extraction%20attacks
+PPIDSG: A privacy-preserving image distribution sharing scheme with GAN in federated learning,,https://www.catalyzex.com/s/PPIDSG:%20A%20privacy-preserving%20image%20distribution%20sharing%20scheme%20with%20GAN%20in%20federated%20learning
+MISA: Unveiling the vulnerabilities in split federated learning,,https://www.catalyzex.com/s/MISA:%20Unveiling%20the%20vulnerabilities%20in%20split%20federated%20learning
+Poincar\'e differential privacy for hierarchy-aware graph embedding,,
+A simple and practical method for reducing the disparate impact of differential privacy,,https://www.catalyzex.com/s/A%20simple%20and%20practical%20method%20for%20reducing%20the%20disparate%20impact%20of%20differential%20privacy
+Model stealing attack against recommender system,,https://www.catalyzex.com/s/Model%20stealing%20attack%20against%20recommender%20system
+Provably convergent federated trilevel learning,,https://www.catalyzex.com/s/Provably%20convergent%20federated%20trilevel%20learning
+Convergence visualizer of decentralized federated distillation with reduced communication costs,,https://www.catalyzex.com/s/Convergence%20visualizer%20of%20decentralized%20federated%20distillation%20with%20reduced%20communication%20costs
+"Trust, but verify: A survey of randomized smoothing techniques",,"https://www.catalyzex.com/s/Trust,%20but%20verify:%20A%20survey%20of%20randomized%20smoothing%20techniques"
+SkyMask: Attack-agnostic robust federated learning with fine-grained learnable masks,,https://www.catalyzex.com/s/SkyMask:%20Attack-agnostic%20robust%20federated%20learning%20with%20fine-grained%20learnable%20masks
+Survey on trustworthy graph neural networks: From a causal perspective,,https://www.catalyzex.com/s/Survey%20on%20trustworthy%20graph%20neural%20networks:%20From%20a%20causal%20perspective
+R\'enyi pufferfish privacy: General additive noise mechanisms and privacy amplification by iteration,,https://www.catalyzex.com/s/R/'enyi%20pufferfish%20privacy:%20General%20additive%20noise%20mechanisms%20and%20privacy%20amplification%20by%20iteration
+Manipulating trajectory prediction with backdoors,,https://www.catalyzex.com/s/Manipulating%20trajectory%20prediction%20with%20backdoors
+Towards fair graph federated learning via incentive mechanisms,,https://www.catalyzex.com/s/Towards%20fair%20graph%20federated%20learning%20via%20incentive%20mechanisms
+"Can machines learn robustly, privately, and efficiently?",,"https://www.catalyzex.com/s/Can%20machines%20learn%20robustly,%20privately,%20and%20efficiently?"
+On the effectiveness of unlearning in session-based recommendation,,https://www.catalyzex.com/s/On%20the%20effectiveness%20of%20unlearning%20in%20session-based%20recommendation
+DCFL: Non-IID awareness data condensation aided federated learning,,https://www.catalyzex.com/s/DCFL:%20Non-IID%20awareness%20data%20condensation%20aided%20federated%20learning
+Delay Aware Secure Offloading for NOMA-Assisted Mobile Edge Computing in Internet of Vehicles,,https://www.catalyzex.com/s/Delay%20Aware%20Secure%20Offloading%20for%20NOMA-Assisted%20Mobile%20Edge%20Computing%20in%20Internet%20of%20Vehicles
+Reinforcement unlearning,,https://www.catalyzex.com/s/Reinforcement%20unlearning
+Caict-ppca/privacy-computing,,
+ObjectSeeker: Certifiably Robust Object Detection against Patch Hiding Attacks via Patch-agnostic Masking,,https://www.catalyzex.com/s/ObjectSeeker:%20Certifiably%20Robust%20Object%20Detection%20against%20Patch%20Hiding%20Attacks%20via%20Patch-agnostic%20Masking
+Vehicle Lateral Motion Dynamics Under Braking/ABS Cyber-Physical Attacks,,
+Poster,,https://www.catalyzex.com/s/Poster

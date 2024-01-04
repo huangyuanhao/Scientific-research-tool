@@ -20,6 +20,10 @@ def search_codeocean(page,title):
     if result:
         return None, None
 
+    result = page("The intelligence hasn't learned to predict this.")
+    if result:
+        return None, None
+
     print(f"Found results for '{title}'")
 
     return None, page.url
