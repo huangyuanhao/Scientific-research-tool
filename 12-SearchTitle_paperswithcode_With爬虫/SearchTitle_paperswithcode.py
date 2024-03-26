@@ -16,13 +16,11 @@ def search_paperswithcode(page,title):
         print(f"network Error fetching '{title}'")
         return "network Error", None
 
-    result = page('Cannot find the paper you are looking for')
-    if result:
-        return None, None
+    if page.ele('.row infinite-item item paper-card'):
+        print(f"Found results for '{title}'")
+        return None, page.url
 
-    print(f"Found results for '{title}'")
-
-    return None, page.url
+    return None,None
 
 
 
