@@ -53,9 +53,6 @@ data_full = pd.read_excel(file_path,keep_default_na=False)
 data_selected = data_full[columns_to_extract.keys()].copy()
 data_selected.rename(columns=columns_to_extract, inplace=True)
 
-# 修正 "通讯作者" 列的处理
-data_selected.loc[:, '通讯作者'] = data_selected['通讯作者'].astype(str).str.extract(r'(.*? \(corresponding author\))', expand=False)
-
 
 data_selected['发表日期'] = data_selected['发表日期'].astype(str).apply(format_date)
 
