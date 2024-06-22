@@ -68,7 +68,7 @@ root.title("数据提取工具")
 root.geometry("600x300")  # 调整窗口大小
 
 # 添加说明文字
-Label(root, text="根据查找表B中的某一列，在源数据表A中匹配并提取。\n如果不填写列名，就根据两个表的第一列进行匹配。\n如果填写表B关键列内容，就不用添加表B路径", wraplength=400, justify="left").grid(row=0, columnspan=3)
+Label(root, text="根据填写表B中的某一列，从源数据表A中匹配并提取。\n如果不填写列名，就根据两个表的第一列进行匹配。\n如果填写表B关键列内容，就不用添加表B路径", wraplength=400, justify="left").grid(row=0, columnspan=3)
 
 # 创建标签、文本框和文件选择按钮
 Label(root, text="源数据表A文件路径:").grid(row=1, column=0)
@@ -77,11 +77,11 @@ entry_source_file.grid(row=1, column=1)
 Button(root, text="浏览", command=lambda: choose_file(entry_source_file)).grid(row=1, column=2)
 
 # 使用Text组件替代原来的Entry组件用于多行输入
-Label(root, text="查找表B关键列内容（如果有）:").grid(row=2, column=0)
+Label(root, text="填写表B关键列内容（如果有）:").grid(row=2, column=0)
 entry_key_content_lookup = Text(root, height=4, width=50)  # 设置高度为4行
 entry_key_content_lookup.grid(row=2, column=1)
 
-Label(root, text="查找表B文件路径:").grid(row=3, column=0)
+Label(root, text="填写表B文件路径:").grid(row=3, column=0)
 entry_lookup_file = Entry(root, width=50)
 entry_lookup_file.grid(row=3, column=1)
 Button(root, text="浏览", command=lambda: choose_file(entry_lookup_file)).grid(row=3, column=2)
@@ -90,7 +90,7 @@ Label(root, text="源数据表A关键列名:").grid(row=4, column=0)
 entry_key_column_source = Entry(root, width=20)
 entry_key_column_source.grid(row=4, column=1)
 
-Label(root, text="查找表B关键列名:").grid(row=5, column=0)
+Label(root, text="填写表B关键列名:").grid(row=5, column=0)
 entry_key_column_lookup = Entry(root, width=20)
 entry_key_column_lookup.grid(row=5, column=1)
 

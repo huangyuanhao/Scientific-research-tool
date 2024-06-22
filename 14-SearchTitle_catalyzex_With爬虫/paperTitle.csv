@@ -1,101 +1,39 @@
 title,networkStatus,link,info
-A Comprehensive Survey on the Convergence of Vehicular Social Networks and Fog Computing,,,IndexedWithCode
-A Review of Digital Twins and their Application in Cybersecurity based on Artificial Intelligence,,,IndexedWithCode
-A simple and practical method for reducing the disparate impact of differential privacy,,,IndexedWithCode
-A Survey of Blockchain and Artificial Intelligence for 6G Wireless Communications,,,IndexedWithCode
-A Survey of Federated Evaluation in Federated Learning,,,IndexedWithCode
-A Survey of Federated Learning for Connected and Automated Vehicles,,,IndexedWithCode
-A Survey on Blockchain-Based Federated Learning and Data Privacy,,,IndexedWithCode
-A Survey on Participant Selection for Federated Learning in Mobile Networks,,,IndexedWithCode
-A Survey on Secure and Private Federated Learning Using Blockchain: Theory and Application in Resource-constrained Computing,,,IndexedWithCode
-A survey on vulnerability of federated learning: A learning algorithm perspective,,,IndexedWithCode
-Adversarial Online Learning With Variable Plays in the Pursuit-Evasion Game: Theoretical Foundations and Application in Connected and Automated Vehicle Cybersecurity,,,IndexedWithCode
-Aggregation Weighting of Federated Learning via Generalization Bound Estimation,,,IndexedWithCode
-Applications of Distributed Machine Learning for the Internet-of-Things: A Comprehensive Survey,,,IndexedWithCode
-"Autonomous Vehicles an overview on system, cyber security, risks, issues, and a way forward",,,IndexedWithCode
-Bayesian Federated Learning: A Survey,,,IndexedWithCode
-Beyond gradient and priors in privacy attacks: Leveraging pooler layer inputs of language models in federated learning,,,IndexedWithCode
-Blockchain-Enabled Federated Learning Approach for Vehicular Networks,,,IndexedWithCode
-Building Trust Profiles in Conditionally Automated Driving,,,IndexedWithCode
-Calibrated one round federated learning with bayesian inference in the predictive space,,,IndexedWithCode
-"Can machines learn robustly, privately, and efficiently?",,,IndexedWithCode
-Change Point Models for Real-Time Cyber Attack Detection in Connected Vehicle Environment,,,IndexedWithCode
-Computation and Privacy Protection for Satellite-Ground Digital Twin Networks,,,IndexedWithCode
-Convergence visualizer of decentralized federated distillation with reduced communication costs,,,IndexedWithCode
-Data-agnostic model poisoning against federated learning: A graph autoencoder approach,,,IndexedWithCode
-DCFL: Non-IID awareness data condensation aided federated learning,,,IndexedWithCode
-Deep Learning for Inertial Positioning: A Survey,,,IndexedWithCode
-Delay Aware Secure Offloading for NOMA-Assisted Mobile Edge Computing in Internet of Vehicles,,,IndexedWithCode
-Detecting anomalous network communication patterns using graph convolutional networks,,,IndexedWithCode
-Differentially Private Deep Q-Learning for Pattern Privacy Preservation in MEC Offloading,,,IndexedWithCode
-Digital twin virtualization with machine learning for IoT and beyond 5G networks: Research directions for security and optimal control,,,IndexedWithCode
-Digital Twin-Empowered Smart Attack Detection System for 6G Edge of Things Networks,,,IndexedWithCode
-Digital twins for dynamic management of blockchain systems,,,IndexedWithCode
-"Digital Twins: State of the art theory and practice, challenges, and open research questions",,,IndexedWithCode
-Distributed optimization with feasible set privacy,,,IndexedWithCode
-Dynamic heterogeneous federated learning with multi-level prototypes,,,IndexedWithCode
-Eliminating domain bias for federated learning in representation space,,,IndexedWithCode
-Evaluating multi-global server architecture for federated learning,,,IndexedWithCode
-Exploiting label skews in federated learning with model concatenation,,,IndexedWithCode
-Federated Analytics: A survey,,,IndexedWithCode
-Federated learning empowered by generative content,,,IndexedWithCode
-Federated Learning for Computationally-Constrained Heterogeneous Devices: A Survey,,,IndexedWithCode
-Federated Learning for Connected and Automated Vehicles: A Survey of Existing Approaches and Challenges,,,IndexedWithCode
-Federated Learning for Metaverse: A Survey,,,IndexedWithCode
-Federated Learning in Intelligent Transportation Systems: Recent Applications and Open Problems,,,IndexedWithCode
-Federated Learning is Better with Non-Homomorphic Encryption,,,IndexedWithCode
-Federated Learning on Edge Sensing Devices: A Review,,,IndexedWithCode
-Federated Learning with Manifold Regularization and Normalized Update Reaggregation,,,IndexedWithCode
-Federated Learning: A Cutting-Edge Survey of the Latest Advancements and Applications,,,IndexedWithCode
-"From Generative AI to Generative Internet of Things: Fundamentals, Framework, and Outlooks",,,IndexedWithCode
-Hybrid PLS-ML authentication scheme for V2I communication networks,,,IndexedWithCode
-Interpretable Graph Anomaly Detection using Gradient Attention Maps,,,IndexedWithCode
-Low-latency federated learning and blockchain for edge association in digital twin empowered 6G networks,,,IndexedWithCode
-Machine Unlearning: A Survey,,,IndexedWithCode
-Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems,,,IndexedWithCode
-Manipulating trajectory prediction with backdoors,,,IndexedWithCode
-MISA: Unveiling the vulnerabilities in split federated learning,,,IndexedWithCode
-Mitigating data injection attacks on federated learning,,,IndexedWithCode
-MOB-FL: Mobility-aware federated learning for intelligent connected vehicles,,,IndexedWithCode
-Model stealing attack against recommender system,,,IndexedWithCode
-Multi-dimensional fair federated learning,,,IndexedWithCode
-No prejudice! fair federated graph neural networks for personalized recommendation,,,IndexedWithCode
-On the effectiveness of unlearning in session-based recommendation,,,IndexedWithCode
-PAC privacy preserving diffusion models,,,IndexedWithCode
-Perspectives on the state and future of deep learning -- 2023,,,IndexedWithCode
-Poisoning attacks against contrastive recommender systems,,,IndexedWithCode
-PPIDSG: A privacy-preserving image distribution sharing scheme with GAN in federated learning,,,IndexedWithCode
-Preserving Node-level Privacy in Graph Neural Networks,,,IndexedWithCode
-"Privacy and Security in Ubiquitous Integrated Sensing and Communication: Threats, Challenges and Future Directions",,,IndexedWithCode
-Privacy preserving multi-agent reinforcement learning in supply chains,,,IndexedWithCode
-PROFL: A privacy-preserving federated learning method with stringent defense against poisoning attacks,,,IndexedWithCode
-Provably convergent federated trilevel learning,,,IndexedWithCode
-QMGeo: Differentially private federated learning via stochastic quantization with mixed truncated geometric distribution,,,IndexedWithCode
-Recent Advances on Federated Learning: A Systematic Survey,,,IndexedWithCode
-Reconfigurable Intelligent Surface-Assisted Cross-Layer Authentication for Secure and Efficient Vehicular Communications,,,IndexedWithCode
-Roulette: A Semantic Privacy-Preserving Device-Edge Collaborative Inference Framework for Deep Learning Classification Tasks,,,IndexedWithCode
-SAME: Sample reconstruction against model extraction attacks,,,IndexedWithCode
-Scale-MIA: A Scalable Model Inversion Attack against Secure Federated Learning via Latent Space Reconstruction,,,IndexedWithCode
-Scheduling and communication schemes for decentralized federated learning,,,IndexedWithCode
-Secure Decentralized Learning with Blockchain,,,IndexedWithCode
-SkyMask: Attack-agnostic robust federated learning with fine-grained learnable masks,,,IndexedWithCode
-Source-Free Unsupervised Domain Adaptation: A Survey,,,IndexedWithCode
-Statistical Detection of Adversarial Examples in Blockchain-Based Federated Forest In-Vehicle Network Intrusion Detection Systems,,,IndexedWithCode
-Survey of Knowledge Distillation in Federated Edge Learning,,,IndexedWithCode
-Survey of Machine Learning Based Intrusion Detection Methods for Internet of Medical Things,,,IndexedWithCode
-Survey on trustworthy graph neural networks: From a causal perspective,,,IndexedWithCode
-"The landscape of modern machine learning: A review of machine, distributed and federated learning",,,IndexedWithCode
-"The Metaverse: Survey, Trends, Novel Pipeline Ecosystem & Future Directions",,,IndexedWithCode
-"The Paradox of Noise: An Empirical Study of Noise-Infusion Mechanisms to Improve Generalization, Stability, and Privacy in Federated Learning",,,IndexedWithCode
-Topology-aware Federated Learning in Edge Computing: A Comprehensive Survey,,,IndexedWithCode
-Towards fair graph federated learning via incentive mechanisms,,,IndexedWithCode
-Towards transferable adversarial attacks with centralized perturbation,,,IndexedWithCode
-"Trust, but verify: A survey of randomized smoothing techniques",,,IndexedWithCode
-Trustworthy Federated Learning: A Survey,,,IndexedWithCode
-TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports,,,IndexedWithCode
-Universal Adversarial Backdoor Attacks to Fool Vertical Federated Learning in Cloud-Edge Collaboration,,,IndexedWithCode
-Unlearning via sparse representations,,,IndexedWithCode
-Using Decentralized Aggregation for Federated Learning with Differential Privacy,,,IndexedWithCode
-V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection,,,IndexedWithCode
-VEDLIoT,,,IndexedWithCode
-VeryFL: A verify federated learning framework embedded with blockchain,,,IndexedWithCode
+Blockchain-enabled trustworthy federated unlearning,,,IndexedWithCode
+Bayesian Variational Federated Learning and Unlearning in Decentralized Networks,,,IndexedWithCode
+Decentralized federated unlearning on blockchain,,,IndexedWithCode
+Federated unlearning: a perspective of stability and fairness,,,IndexedWithCode
+Scalable federated unlearning via isolated and coded sharding,,,IndexedWithCode
+Strategic data revocation in federated unlearning,,,IndexedWithCode
+QuickDrop: efficient federated unlearning by integrated dataset distillation,,https://www.catalyzex.com/s/QuickDrop:%20efficient%20federated%20unlearning%20by%20integrated%20dataset%20distillation,
+SecureCut: federated gradient boosting decision trees with efficient machine unlearning,,,IndexedWithCode
+Federated unlearning via active forgetting,,,IndexedWithCode
+Federated unlearning with knowledge distillation,,,IndexedWithCode
+Incentive Mechanism Design for Federated Learning and Unlearning,,https://www.catalyzex.com/s/Incentive%20Mechanism%20Design%20for%20Federated%20Learning%20and%20Unlearning,
+Forget-SVGD: Particle-Based Bayesian Federated Unlearning,,,IndexedWithCode
+Federated Unlearning: Guarantee the Right of Clients to Forget,,https://www.catalyzex.com/s/Federated%20Unlearning:%20Guarantee%20the%20Right%20of%20Clients%20to%20Forget,
+Validation of?Federated Unlearning on?Collaborative Prostate Segmentation,,,IndexedWithCode
+VeriFi: Towards Verifiable Federated Unlearning,,,IndexedWithCode
+Federated Unlearning via Class-Discriminative Pruning,,,IndexedWithCode
+Exact-Fun: An Exact and Efficient Federated Unlearning Approach,,,
+Compressed particle-based federated bayesian learning and unlearning,,,IndexedWithCode
+Federated Unlearning for Human Activity Recognition,,,
+Federated Unlearning for On-Device Recommendation,,,
+Federated unlearning with momentum degradation,,,
+Subspace based Federated Unlearning,,,IndexedWithCode
+FedME<sup>2</sup>: Memory Evaluation & Erase Promoting Federated Unlearning in DTMN,,https://www.catalyzex.com/s/FedME%3Csup%3E2%3C/sup%3E:%20Memory%20Evaluation%20&%20Erase%20Promoting%20Federated%20Unlearning%20in%20DTMN,
+Efficient Vertical Federated Unlearning via Fast Retraining,,,
+Mitigating Poor Data Quality Impact with Federated Unlearning for Human-Centric Metaverse,,,
+Towards Efficient and Robust Federated Unlearning in IoT Networks,,,
+FAST: Adopting Federated Unlearning to Eliminating Malicious Terminals at Server Side,,,
+Fast federated machine unlearning with nonlinear functional theory,,,
+Server-Initiated Federated Unlearning to Eliminate Impacts of Low-Quality Data,,,
+Federated Unlearning and Server Right to Forget: Handling Unreliable Client Contributions,,,
+Edge Caching with Federated Unlearning for Low-latency V2X Communications,,,
+Client-Free Federated Unlearning via Training Reconstruction with Anchor Subspace Calibration,,,
+A Revocation Key-based Approach Towards Efficient Federated Unlearning,,,
+ECG Classifiction Based on Federated Unlearning,,,
+Get Rid Of Your Trail: Remotely Erasing Backdoors in Federated Learning,,,
+Learning and Unlearning Your Data in Federated Settings,,,
+Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning,,,
+Privacy-Preserving Federated Unlearning with Certified Client Removal,,,

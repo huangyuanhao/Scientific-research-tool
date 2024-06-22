@@ -1,0 +1,44 @@
+// 初始化CSV字符串，并添加表头
+let csvContent = "Journal Name,Impact Factor,Quartile\n";
+
+// 递归函数，用于翻页并收集数据
+function collectDataAndNavigate() {
+  // 获取当前页面的数据
+  const journalNames = document.querySelectorAll('.table-cell-journalName');
+  const impactFactors = document.querySelectorAll('.table-cell-jif2019');
+  const quartiles = document.querySelectorAll('.table-cell-quartile');
+
+  journalNames.forEach((journalNameElement, index) => {
+    const journalName = journalNameElement.getAttribute('title');
+    const impactFactor = impactFactors[index].getAttribute('title');
+    const quartile = quartiles[index].textContent.trim();
+    csvContent += `"${journalName}","${impactFactor}","${quartile}"\n`;
+  });
+
+  // 检查是否存在下一页按钮且未被禁用
+  const nextPageButton = document.querySelector('.mat-paginator-navigation-next:not(.mat-button-disabled)');
+  if (nextPageButton) {
+    nextPageButton.click(); // 点击下一页按钮
+    setTimeout(collectDataAndNavigate, 2000); // 等待页面加载后再次调用函数
+  } else {
+    // 没有更多页时，可以调用下载函数
+    downloadCSV(csvContent, 'JournalData.csv');
+  }
+}
+
+// 函数用于下载CSV文件
+function downloadCSV(csvContent, fileName) {
+  const link = document.createElement("a");
+  const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+  const url = URL.createObjectURL(blob);
+  link.setAttribute("href", url);
+  link.setAttribute("download", fileName);
+  link.style.visibility = 'hidden';
+  
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+}
+
+// 开始收集数据和翻页过程
+collectDataAndNavigate();
